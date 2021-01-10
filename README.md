@@ -1,1 +1,1 @@
-# Insta-Image-Loader
+# Insta-Photo-Downloader
