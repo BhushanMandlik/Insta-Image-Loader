@@ -1,0 +1,7 @@
+Instagram Photo Download APP from Command Line
+
+Steps:
+1) pip install instaloader
+2) instaloader --help
+3) instaloader profile <profile_id>
+4) instaloader --no-captions --no-videos  --no-compress-json --no-metadata-json  profile <profile_id>
